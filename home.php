@@ -61,8 +61,10 @@
 	 			<th>Program Studi</th>
 	 			<th>edit/hapus</th>
 	 		</tr>
-	 				<a href="home.php" class="btn btn-warning">Edit</a>
-	 				<a href="home.php" onclick="return confirm('apakah ingin menghapus data?')" class="btn btn-danger">Hapus</a>
+	 			<td>
+          <a href="#" class="btn btn-warning">Edit</a>
+          <a href="#" onclick="return confirm('apakah ingin menghapus data?')" class="btn btn-danger">Hapus</a>
+        </td>
 	 			</td>
 	 		</tr>
  		</table>
